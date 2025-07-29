@@ -84,4 +84,4 @@ I specialize in geospatial data science, environmental modeling, and machine lea
 
 ## 📄 Curriculum Vitae
 
-Download my full CV → [Khalil_Gholamnia_CV.pdf](Khalil%20CV.pdf)
+Download my full CV → [Khalil_CV.pdf](Khalil%20CV.pdf)
